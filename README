@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBeckNT%2Fplatform-external-e2fsprogs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBeckNT%2Fplatform-external-e2fsprogs?ref=badge_shield)
+
 	This is the new version (1.42.9) of the second extended file
 system management programs.
 
@@ -17,3 +19,7 @@ tytso@mit.edu or tytso@alum.mit.edu.  See the e2fsck man page for
 suggestions of what sort of information to include when submitting bug
 reports for these programs.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBeckNT%2Fplatform-external-e2fsprogs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBeckNT%2Fplatform-external-e2fsprogs?ref=badge_large)
